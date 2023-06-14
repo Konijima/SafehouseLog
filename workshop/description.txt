@@ -1,0 +1,40 @@
+This mod was created for server owners, it logs safehouse events into a text file on the server.
+
+To access the log, navigate to the following location in your server files: [b]Zomboid/Lua/safehouse.log[/b]
+
+[h2]Features:[/h2]
+- [b]Log admin created safehouse/area[/b]
+- [b]Log claiming safehouse[/b]
+- [b]Log safehouse title change[/b]
+- [b]Log safehouse invitation sent[/b]
+- [b]Log safehouse invitation accepted[/b]
+- [b]Log member who quits safehouse by themself[/b]
+- [b]Log member who is kicked from safehouse[/b]
+- [b]Log safehouse ownership transfer[/b]
+- [b]Log safehouse released by owner[/b]
+- [b]Log safehouse removed by staff[/b]
+
+[h2]Example Log:[/h2]
+[code]
+Konijima 'Liliana Golfer' claimed ['Safehouse' 7652,10147 at 1686423036584]
+Konijima 'Liliana Golfer' invited Tchernobill to ['Safehouse' 7652,10147 at 1686423036584]
+Tchernobill 'Paul Handy' joined ['Safehouse' 7652,10147 at 1686423038854]
+Konijima 'Liliana Golfer' changed ['Safehouse' 7652,10147 at 1686423036584] title to 'Warehouse'
+Konijima 'Liliana Golfer' transferred ['Warehouse' 7652,10147 at 1686423036584] ownership to Tchernobill
+Konijima 'Liliana Golfer' quitted ['Warehouse' 7652,10147 at 1686423036584]
+[/code]
+
+[h2]Thanks to:[/h2]
+- [b]Fallen Seraph[/b] for commissioning this mod
+- [b]Tchernobill[/b] for helping test the mod
+
+
+[h1]Hire Team Orbit for Custom Mod Commission[/h1]
+[url=https://discord.gg/2skchrKrDv]
+    [img]https://raw.githubusercontent.com/Glytch3r/TeamOrbitAds/main/square_serve.gif[/img]
+[/url]
+
+[quote]
+Mod created by [b]Konijima[/b]
+Commissioned by [b]Fallen Seraph[/b]
+[/quote]

@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Konijima/project-zomboid-studio/master/pzstudio.schema.json",
+    "title": "SafehouseLog",
+    "authors": [
+        "Konijima"
+    ],
+    "workshop": {
+        "id": 2987361264,
+        "visibility": "unlisted",
+        "tags": [
+            "Build 41",
+            "Multiplayer",
+            "Misc"
+        ],
+        "excludes": []
+    },
+    "mods": {
+        "SafehouseLog": {
+            "name": "SafehouseLog",
+            "description": ""
+        }
+    }
+}
