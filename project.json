@@ -6,7 +6,7 @@
     ],
     "workshop": {
         "id": 2987361264,
-        "visibility": "unlisted",
+        "visibility": "public",
         "tags": [
             "Build 41",
             "Multiplayer",
@@ -17,7 +17,7 @@
     "mods": {
         "SafehouseLog": {
             "name": "SafehouseLog",
-            "description": ""
+            "description": "This mod was created for server owners, it logs safehouse events into a text file on the server."
         }
     }
 }
